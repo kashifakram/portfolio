@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Custom';
+    src:url('./fonts/heading.ttf')
+}
+
+.header {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: 'Custom';
+}
